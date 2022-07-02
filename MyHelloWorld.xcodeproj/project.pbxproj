@@ -60,8 +60,8 @@
 				14B6B06B286F4BD6002AD5BE /* SceneDelegate.swift */,
 				14B6B06D286F4BD6002AD5BE /* ViewController.swift */,
 				14B6B06F286F4BD6002AD5BE /* Main.storyboard */,
-				14B6B072286F4BD8002AD5BE /* Assets.xcassets */,
 				14B6B074286F4BD8002AD5BE /* LaunchScreen.storyboard */,
+				14B6B072286F4BD8002AD5BE /* Assets.xcassets */,
 				14B6B077286F4BD8002AD5BE /* Info.plist */,
 			);
 			path = MyHelloWorld;
